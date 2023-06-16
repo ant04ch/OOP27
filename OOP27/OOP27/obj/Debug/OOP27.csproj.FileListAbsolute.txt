@@ -1,0 +1,11 @@
+C:\Users\lox22\source\repos\OOP27\OOP27\bin\Debug\OOP27.exe.config
+C:\Users\lox22\source\repos\OOP27\OOP27\bin\Debug\OOP27.exe
+C:\Users\lox22\source\repos\OOP27\OOP27\bin\Debug\OOP27.pdb
+C:\Users\lox22\source\repos\OOP27\OOP27\obj\Debug\OOP27.csproj.AssemblyReference.cache
+C:\Users\lox22\source\repos\OOP27\OOP27\obj\Debug\OOP27.csproj.SuggestedBindingRedirects.cache
+C:\Users\lox22\source\repos\OOP27\OOP27\obj\Debug\OOP27.Form1.resources
+C:\Users\lox22\source\repos\OOP27\OOP27\obj\Debug\OOP27.Properties.Resources.resources
+C:\Users\lox22\source\repos\OOP27\OOP27\obj\Debug\OOP27.csproj.GenerateResource.cache
+C:\Users\lox22\source\repos\OOP27\OOP27\obj\Debug\OOP27.csproj.CoreCompileInputs.cache
+C:\Users\lox22\source\repos\OOP27\OOP27\obj\Debug\OOP27.exe
+C:\Users\lox22\source\repos\OOP27\OOP27\obj\Debug\OOP27.pdb
